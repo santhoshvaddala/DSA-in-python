@@ -1,7 +1,8 @@
 """
 This is a python implementation of linear search algorithm
 
-python
+To run the python file
+python linear_search.py
 """
 import random
 
